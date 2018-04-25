@@ -1,4 +1,4 @@
-##ArrayList
+## ArrayList
 
 ```java
 public class ArrayList<E> extends AbstractList<E>
@@ -7,7 +7,7 @@ public class ArrayList<E> extends AbstractList<E>
         }
 ```
 
-####Overall
+#### Overall
 - This class is roughly equivalent to <tt>Vector</tt>, except that it is unsynchronized.
 
 
