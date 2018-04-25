@@ -34,4 +34,8 @@ public synchronized void trimToSize() {
         }
     }
 ```
-－ `grow()`, which grows the size of the vector, also calls `Arrays.copyOf()`
+- `grow()`, which grows the size of the vector, also calls `Arrays.copyOf()`
+- `indexOf()`, which uses linear search and return -1 when the target cannot be found
+- `contains()`, calls `indexOf()` 
+
+ 
