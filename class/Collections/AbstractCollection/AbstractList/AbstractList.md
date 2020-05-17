@@ -1,4 +1,4 @@
-##AbstractList
+## AbstractList
 
 ```java
 public abstract class AbstractList<E> extends AbstractCollection<E> implements List<E> {

@@ -11,7 +11,7 @@ public class ArrayList<E> extends AbstractList<E>
 - This class is roughly equivalent to <tt>Vector</tt>, except that it is unsynchronized.
 
 
-####Methods
+#### Methods
 - constructor (notice the usage of **Arrays.copyOf**)
 ```java
 /**
